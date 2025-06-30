@@ -12,12 +12,12 @@ I love building close-to-hardware solutions, like:
 - ⚡ **STM32/Nios II Embedded Games**  
 
 ### **🛠️ Technical Toolkit**  
-#### **Languages & Frameworks**  
+#### **Languages**  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM_Assembly-0091BD?style=flat&logo=arm&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-000000?style=flat&logo=verilog&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM_Assembly-0091BD?style=flat&logo=arm&logoColor=white)  
 
 #### **Embedded & Tools**  
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
