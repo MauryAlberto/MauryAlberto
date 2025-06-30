@@ -15,7 +15,7 @@ I love building close-to-hardware solutions, like:
 #### **Languages**  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM_Assembly-0091BD?style=flat&logo=arm&logoColor=white)  
+![ARM](https://img.shields.io/badge/ARM_Assembly-0091BD?style=flat&logo=arm&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-000000?style=flat&logo=verilog&logoColor=white)
 
